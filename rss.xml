@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Frank Sauce]]></title>
+        <description><![CDATA[Frank Sauce]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Mar 2016 23:52:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I ate your wallet. I'm sorry.</p>]]></description>
+            <link>undefined317c7cfd-b90c-4469-a49b-4a674b37dc41/index.html</link>
+            <guid isPermaLink="false">317c7cfd-b90c-4469-a49b-4a674b37dc41</guid>
+            <pubDate>Sat, 26 Mar 2016 23:52:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
